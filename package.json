@@ -1,0 +1,12 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "Minimal in-memory to-do list API using only Node's standard library",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
